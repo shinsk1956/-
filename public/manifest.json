@@ -1,0 +1,7 @@
+[
+  { "file": "data/2021_shpgs.csv", "name": "손해평가사 2021" },
+  { "file": "data/2022_shpgs.csv", "name": "손해평가사 2022" },
+  { "file": "data/2023_shpgs.csv", "name": "손해평가사 2023" },
+  { "file": "data/2024_shpgs.csv", "name": "손해평가사 2024" },
+  { "file": "data/2025_shpgs.csv", "name": "손해평가사 2025" }
+]
